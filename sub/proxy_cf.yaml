@@ -640,20 +640,9 @@ proxies:
   type: ss
   udp: true
 - name: "8\u5143\u8001\u724C\u4E13\u7EBF\u673A\u573A\uFF1Acczzuu.top"
-  network: tcp
-  port: 52683
-  server: jp.sofast.live
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 5aaa5259-f924-4682-a4a3-149d472a9dcc
-- name: "\U0001F1E8\U0001F1E6 \u52A0\u62FF\u5927_U0TA62"
   network: ws
-  port: 2095
-  server: 172.64.42.85
-  servername: 8nj2r.2k8t.f88.hh.vavava.kdns.fr
+  port: 8080
+  server: 162.159.39.218
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -664,7 +653,7 @@ proxies:
     headers:
       Host: 8nj2r.2k8t.f88.hh.vavava.kdns.fr
     path: /?ed=2560security=tls
-- name: "\U0001F1E8\U0001F1E6 \u52A0\u62FF\u5927_LI0TVM"
+- name: "\U0001F1E8\U0001F1E6 \u52A0\u62FF\u5927_GW0XQY"
   network: ws
   port: 80
   server: 104.18.39.218
@@ -678,7 +667,7 @@ proxies:
     headers:
       Host: 8nj2r.2k8t.f88.hh.vavava.kdns.fr
     path: /?ed=2560security=tls
-- name: "\U0001F1E8\U0001F1E6 \u52A0\u62FF\u5927_CEPY4A"
+- name: "\U0001F1E8\U0001F1E6 \u52A0\u62FF\u5927_52H5U6"
   network: ws
   port: 8080
   server: 162.159.0.53
@@ -693,10 +682,11 @@ proxies:
     headers:
       Host: 8nj2r.2k8t.f88.hh.vavava.kdns.fr
     path: /?ed=2560security=tls
-- name: "\U0001F1FA\U0001F1F8 \u7F8E\u56FD_TO9D84"
+- name: "\U0001F1E8\U0001F1E6 \u52A0\u62FF\u5927_3IYER9"
   network: ws
-  port: 8080
-  server: 162.159.39.218
+  port: 2095
+  server: 172.64.42.85
+  servername: 8nj2r.2k8t.f88.hh.vavava.kdns.fr
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -709,7 +699,7 @@ proxies:
     path: /?ed=2560security=tls
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: "\U0001F1E9\U0001F1EA \u5FB7\u56FD_3K2AJ8"
+  name: "\U0001F1E9\U0001F1EA \u5FB7\u56FD_07B3RV"
   network: tcp
   port: 443
   reality-opts:
@@ -723,43 +713,17 @@ proxies:
   type: vless
   udp: true
   uuid: af00e0c4-decf-48f2-9013-56abe9c9efcd
-- name: "\U0001F1F3\U0001F1F1 \u8377\u5170_XG5VAT"
-  password: Og==
-  port: 1083
-  server: 161.35.90.93
-  type: socks5
-  udp: true
-  username: Og==
-- client-fingerprint: chrome
-  name: "\U0001F1E9\U0001F1EA \u5FB7\u56FD_QP7Z5F"
-  network: ws
-  port: 2087
-  server: 188.220.67.245
+- name: "\U0001F1FA\U0001F1F8 \u7F8E\u56FD_I200QY"
+  network: tcp
+  port: 52683
+  server: jp.sofast.live
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vless
   udp: true
-  uuid: 90da514d-8888-4a53-912e-ac2981c8c6ee
-  ws-opts:
-    headers:
-      Host: 188.220.67.245
-    path: /8f2690e2d016
-- name: "\U0001F1E9\U0001F1EA \u5FB7\u56FD_TE9UUX"
-  network: ws
-  port: 2087
-  server: 163.8.195.241
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 56ba5d34-ef22-4ba6-8090-4188b807df54
-  ws-opts:
-    headers:
-      Host: /?--v2rayNplus--v2rayNplus--v2rayNplus--
-    path: /29c8fed7ca22
-- name: "\U0001F1F3\U0001F1F1 \u8377\u5170_YKG5UA"
+  uuid: 5aaa5259-f924-4682-a4a3-149d472a9dcc
+- name: "\U0001F1F3\U0001F1F1 \u8377\u5170_U0164L"
   network: ws
   port: 2087
   server: 178.95.170.83
@@ -774,9 +738,24 @@ proxies:
     headers:
       Host: 178.95.170.83
     path: /4bc027a44532
+- client-fingerprint: chrome
+  name: "\U0001F1E9\U0001F1EA \u5FB7\u56FD_ET2G9J"
+  network: ws
+  port: 2087
+  server: 188.220.67.245
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: 90da514d-8888-4a53-912e-ac2981c8c6ee
+  ws-opts:
+    headers:
+      Host: 188.220.67.245
+    path: /8f2690e2d016
 - client-fingerprint: qq
   flow: xtls-rprx-vision
-  name: "\U0001F1EB\U0001F1EE \u82AC\u5170_8CPWF9"
+  name: "\U0001F1EB\U0001F1EE \u82AC\u5170_8WLAQ2"
   network: tcp
   port: 5001
   reality-opts:
@@ -790,3 +769,17 @@ proxies:
   type: vless
   udp: true
   uuid: 5a92a9d2-3067-49cd-bfc5-989bbdfc5d52
+- name: "\U0001F1E9\U0001F1EA \u5FB7\u56FD_M51S8H"
+  network: ws
+  port: 2087
+  server: 163.8.195.241
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: 56ba5d34-ef22-4ba6-8090-4188b807df54
+  ws-opts:
+    headers:
+      Host: /?--v2rayNplus--v2rayNplus--v2rayNplus--
+    path: /29c8fed7ca22
