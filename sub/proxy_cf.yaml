@@ -617,138 +617,57 @@ proxies:
   cipher: auto
   name: "8\u5143\u8001\u724C\u4E13\u7EBF\u673A\u573A\uFF1Acczzuu.top"
   network: ws
-  port: 44867
+  port: 23026
   server: 47.244.120.197
-  skip-cert-verify: false
+  skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca
+  uuid: b9de1bc9-baa7-41ac-86f7-ccd59695cb21
   ws-opts:
     headers:
       Host: 47.244.120.197
-    path: /arki?ed=2048
-- name: "\U0001F1EF\U0001F1F5 \u65E5\u672C_O88QU7"
-  password: Og
-  port: 10808
-  server: 101.36.104.46
-  type: socks5
-  udp: true
-  username: Og
-- name: "\U0001F1FA\U0001F1F8 \u7F8E\u56FD_KMVZY3"
+    path: /arki
+- client-fingerprint: qq
+  flow: xtls-rprx-vision
+  name: "\U0001F1F8\U0001F1EC \u65B0\u52A0\u5761_TZ70SG"
   network: tcp
-  port: 52683
-  server: jp.sofast.live
+  port: 1891
+  reality-opts:
+    public-key: YJLHQBNzHQ7sOeKbj-EkHo1Ym0asUyZKxj4l_thzyGA
+    short-id: 8378f267
+  server: sin-a-02.auuas.com
+  servername: www.npmjs.com
+  skip-cert-verify: false
+  tfo: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 81c4547b-e5d8-4af8-baf0-91c5c0c05a9b
+- cipher: aes-128-gcm
+  name: "\U0001F1F8\U0001F1EC \u65B0\u52A0\u5761_BP9WH2"
+  password: 85590bd2-807b-49b9-af20-1101c18b9eda
+  port: 40022
+  server: ruot.ayucloudservices.nl
+  type: ss
+  udp: true
+- name: "\U0001F1E8\U0001F1E6 \u52A0\u62FF\u5927_32E4IL"
+  network: ws
+  port: 2086
+  server: 172.67.223.190
   skip-cert-verify: false
   tfo: false
   tls: false
   type: vless
   udp: true
-  uuid: 399b6b23-cc40-4831-a494-61948e2df133
-- alterId: 0
-  cipher: auto
-  name: "\U0001F1FA\U0001F1F8 \u7F8E\u56FD_RAH3KJ"
-  network: ws
-  port: 28167
-  server: 142.171.48.179
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: d24d944c-e42e-4e6d-af0c-5b89b0e598ae
+  uuid: e6bad6ca-ab7c-4bdd-b07e-5c8ec407decd
   ws-opts:
     headers:
-      Host: gw.alicdn.com
-    path: /
-- name: "\U0001F1E9\U0001F1EA \u5FB7\u56FD_BEGJ0I"
-  password: Og==
-  port: 443
-  server: 31.77.19.92
-  type: socks5
-  udp: true
-  username: Og==
-- client-fingerprint: randomized
-  flow: xtls-rprx-vision
-  name: "\U0001F1F3\U0001F1F1 \u8377\u5170_AZ9TFB"
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: NOw-idkk3OCn-N0IRS93leujH4ik-E749O2T5BYJQ0M
-    short-id: 3cef317b
-  server: 157.228.160.166
-  servername: addons.mozilla.org
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: df53b6c2-8005-475c-9eb9-74e1be785dc8
-- client-fingerprint: random
-  flow: xtls-rprx-vision
-  name: "\U0001F1F5\U0001F1F1 \u6CE2\u5170_DS9BJ9"
-  network: tcp
-  port: 4510
-  reality-opts:
-    public-key: hkvjyE8WMKHvdGfMta7PAIGz6HAv2WiXvWvAQmsE_DM
-    short-id: 2d0c188798bae174
-  server: 87.242.127.113
-  servername: 9c99da.usecache.net
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: c3db7657-88ce-42a6-b998-1e0364b277ac
+      Host: cool-hill-7fe5.thenewata.workers.dev
+    path: /eyJqdW5rIjoidGpkTkY2VHk0bE1pV3AiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0=?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: "\U0001F1E9\U0001F1EA \u5FB7\u56FD_EFWRR2"
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: 0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08
-    short-id: 4be4110078ebed4a
-  server: 179.254.166.40
-  servername: de2.srv.vbuste.ru
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 318c935d-c195-41d3-99ad-9bbcfdab3386
-- client-fingerprint: random
-  name: "\U0001F1F5\U0001F1F1 \u6CE2\u5170_ED62X1"
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg
-    short-id: ''
-  server: 80.47.12.94
-  servername: pl-1-1.unturned-rust-dead.lol
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8
-- client-fingerprint: random
-  flow: xtls-rprx-vision
-  name: "\U0001F1EB\U0001F1EE \u82AC\u5170_JU9557"
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: fyG6EMB247gGPXLK1YqvbWd_Q9fnoMWkbmGfG1BRJUE
-    short-id: c90408131c6d00b0
-  server: 2.26.89.14
-  servername: assets-ms-33.ecom-ai-solutions.com
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 0cf8e402-e801-4aeb-9b7a-00a933f9f1c1
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: "\U0001F1E9\U0001F1EA \u5FB7\u56FD_ZQZP17"
+  name: "\U0001F1E9\U0001F1EA \u5FB7\u56FD_2P0CW9"
   network: tcp
   port: 8443
   reality-opts:
@@ -762,49 +681,10 @@ proxies:
   type: vless
   udp: true
   uuid: fd1d80da-3b27-457a-810b-2b28a309edc1
-- client-fingerprint: chrome
-  name: "\U0001F1E9\U0001F1EA \u5FB7\u56FD_M54W18"
-  network: xhttp
-  port: 2044
-  reality-opts:
-    public-key: aV7fW5RmH-i6HzOiqnFlMwV_ZgfuutMpeWWfEaJBsTM
-    short-id: f259b6f90a
-  server: gate1.ragnarok-it.ru
-  servername: gate1.ragnarok-it.ru
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vless
+- name: "\U0001F1EF\U0001F1F5 \u65E5\u672C_3U6LR9"
+  password: Og
+  port: 10808
+  server: 101.36.104.46
+  type: socks5
   udp: true
-  uuid: 1c10c7f0-f17a-4356-a385-9f004110f8dc
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: "\U0001F1EB\U0001F1EE \u82AC\u5170_DIA4YX"
-  network: tcp
-  port: 443
-  reality-opts:
-    public-key: QnxkyscHouhaLDJHT47beyenVd4LHi62yfJIeRV01Ws
-    short-id: 06e00e7c
-  server: 157.228.128.59
-  servername: addons.mozilla.org
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: df53b6c2-8005-475c-9eb9-74e1be785dc8
-- client-fingerprint: random
-  name: "\U0001F1EB\U0001F1EE \u82AC\u5170_3Q1IRD"
-  network: tcp
-  port: 25633
-  reality-opts:
-    public-key: YLIRYJ8UkT0nSSgxJr7YckNuXnokVyEs2G6thNyx1GE
-    short-id: 200811f031ae7463
-  server: fi-p1.h1cloud.net
-  servername: www.icloud.com
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: ec572cf0-1337-4c51-b4ec-ff2f538c1f4c
+  username: Og
