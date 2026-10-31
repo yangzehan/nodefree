@@ -780,3 +780,2632 @@ proxies:
   type: vless
   udp: true
   uuid: 6c713691-3ca2-4446-ad25-113d1bed6b03
+- name: "\u4FDD\u52A0\u5229\u4E9A(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB\
+    )"
+  network: ws
+  password: humanity
+  port: 443
+  server: 82.118.18.179
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- cipher: aes-256-gcm
+  name: "\u82AC\u5170(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.27
+  skip-cert-verify: false
+  tls: false
+  type: ss
+  udp: true
+- name: "\u6377\u514B(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 87.236.146.111
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u6377\u514B(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 141.133.174.88
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u6377\u514B(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 46.174.142.238
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u6469\u5C14\u591A\u74E6(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB\
+    )"
+  network: ws
+  password: humanity
+  port: 443
+  server: 143.246.223.110
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u6469\u5C14\u591A\u74E6(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB\
+    ) (2)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 5.181.158.96
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u58A8\u897F\u54E5(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 131.196.253.141
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u58A8\u897F\u54E5(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 131.196.254.151
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u632A\u5A01(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 202.50.55.76
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u8461\u8404\u7259(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 195.133.92.71
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: chrome
+  name: "\u745E\u5178(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  password: 0324fbc29561
+  port: 443
+  server: er8u54dh.df6h451rh.xin
+  servername: px.ads.linkedin.com
+  skip-cert-verify: false
+  sni: px.ads.linkedin.com
+  tls: true
+  type: anytls
+  udp: true
+- client-fingerprint: chrome
+  name: "\u745E\u5178(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  network: xhttp
+  port: 61374
+  reality-opts:
+    public-key: QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI
+  server: se-2.pythonsetupbib.online
+  servername: se-2.pythonsetupbib.online
+  skip-cert-verify: false
+  sni: se-2.pythonsetupbib.online
+  tls: true
+  type: vless
+  udp: true
+  uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
+  xhttp-opts:
+    host: se-2.pythonsetupbib.online
+    mode: packet-up
+    path: /
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: "\u745E\u5178(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  network: ws
+  password: MiTiVPN
+  port: 443
+  server: 167.82.64.120
+  servername: firefox.com
+  skip-cert-verify: false
+  sni: firefox.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: mitivpn--mitivpn.ac.ir
+    path: /
+- name: "\u745E\u5178(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (4)"
+  network: ws
+  password: humanity
+  port: 2053
+  server: 83.147.254.59
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u745E\u5178(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (5)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 77.221.139.114
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u745E\u5178(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (6)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 213.165.34.40
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u745E\u58EB(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 83.228.199.3
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u585E\u6D66\u8DEF\u65AF(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB\
+    )"
+  network: ws
+  password: humanity
+  port: 443
+  server: 194.55.164.118
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u585E\u6D66\u8DEF\u65AF(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB\
+    ) (2)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 5.253.29.83
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u571F\u8033\u5176(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 213.238.182.13
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u897F\u73ED\u7259(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 193.17.183.48
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u5308\u7259\u5229(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 2053
+  server: 38.180.225.247
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: firefox
+  name: "\u4EE5\u8272\u5217(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  port: 27591
+  reality-opts:
+    public-key: LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM
+    short-id: 6c5c7900406a1ae7
+  server: 79.182.39.37
+  servername: www.samsung.com
+  skip-cert-verify: false
+  sni: www.samsung.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.81
+  skip-cert-verify: false
+  tls: false
+  type: ss
+  udp: true
+- name: "\u610F\u5927\u5229(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  network: ws
+  password: humanity
+  port: 8443
+  server: 213.109.192.6
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u8D8A\u5357(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 103.161.178.72
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "\u8D8A\u5357(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 103.161.179.36
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: "CA\u52A0\u62FF\u5927(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.67.203.46
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: "CA\u52A0\u62FF\u5927(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  network: ws
+  password: MiTiVPN
+  port: 443
+  server: 167.82.64.120
+  servername: firefox.com
+  skip-cert-verify: false
+  sni: firefox.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: mitivpn--mitivpn.ac.ir
+    path: /?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: "CA\u52A0\u62FF\u5927(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  network: ws
+  password: MiTiVPN
+  port: 443
+  server: 167.82.64.120
+  servername: firefox.com
+  skip-cert-verify: false
+  sni: firefox.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: mitivpn--mitivpn.ac.ir
+    path: /?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: "CA\u52A0\u62FF\u5927(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (4)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.67.203.46
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "DE\u5FB7\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  port: 443
+  reality-opts:
+    public-key: jcp4Lj_qYzxtkalm_XFjrmvqEMGRG7sb19yMwLe16WE
+    short-id: e0215064d8d1fd7c
+  server: 78.17.178.125
+  servername: cdn.tbank.ru
+  skip-cert-verify: false
+  sni: cdn.tbank.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6c713691-3ca2-4446-ad25-113d1bed6b03
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "DE\u5FB7\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  port: 443
+  reality-opts:
+    public-key: jcp4Lj_qYzxtkalm_XFjrmvqEMGRG7sb19yMwLe16WE
+    short-id: e0215064d8d1fd7c
+  server: 78.17.178.125
+  servername: cdn.tbank.ru
+  skip-cert-verify: false
+  sni: cdn.tbank.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: 6c713691-3ca2-4446-ad25-113d1bed6b03
+- client-fingerprint: chrome
+  name: "DE\u5FB7\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  network: ws
+  port: 4443
+  server: 178.105.133.160
+  servername: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+  skip-cert-verify: false
+  sni: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: fb0818b3-4031-4843-b5f7-1d75177a1758
+  ws-opts:
+    headers:
+      Host: jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev
+    path: /@Marisa_kristi
+- name: "DE\u5FB7\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (4)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 202.61.198.53
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "DE\u5FB7\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (5)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 165.22.89.207
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "DE\u5FB7\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (6)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 108.165.236.229
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "DE\u5FB7\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (7)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 144.31.120.77
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "FR\u6CD5\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 207.180.209.128
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "FR\u6CD5\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 169.58.44.174
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "FR\u6CD5\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  network: ws
+  password: humanity
+  port: 8443
+  server: 185.225.205.75
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "GB\u82F1\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 143.110.175.165
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- alpn:
+  - h2
+  client-fingerprint: firefox
+  name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: xhttp
+  port: 443
+  server: dey.lnmarketplace.net
+  servername: dey.lnmarketplace.net
+  skip-cert-verify: false
+  sni: dey.lnmarketplace.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
+  xhttp-opts:
+    host: dey.lnmarketplace.net
+    mode: stream-one
+    path: /kavir
+- client-fingerprint: chrome
+  name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  password: 0324fbc29561
+  port: 443
+  server: 56481.df6h451rh.xin
+  servername: images.ctfassets.net
+  skip-cert-verify: false
+  sni: images.ctfassets.net
+  tls: true
+  type: anytls
+  udp: true
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  password: 0324fbc29561
+  port: 443
+  server: 56481.df6h451rh.xin
+  servername: images.ctfassets.net
+  skip-cert-verify: false
+  sni: images.ctfassets.net
+  tls: true
+  type: anytls
+  udp: true
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (4)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 162.159.61.183
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (5)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.41.167
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (6)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.64.154.219
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (7)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.64.151.20
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (8)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.35.31
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (9)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.47.138
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (10)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.64.155.36
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (11)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.64.151.23
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (12)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.39.55
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (13)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.33.121
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (14)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.64.149.78
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (15)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.46.59
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (16)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.64.153.224
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (17)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 103.219.195.65
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (18)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 47.57.181.17
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (19)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 103.69.128.221
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "HK\u9999\u6E2F(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (20)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 45.196.235.64
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: chrome
+  name: "JP\u65E5\u672C(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: e7TTceggMwUMg+aFN:F4
+  port: 443
+  server: 172.66.47.18
+  servername: APkD964o1oghlTghHt0L0Of.pAgeS.Dev
+  skip-cert-verify: false
+  sni: APkD964o1oghlTghHt0L0Of.pAgeS.Dev
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /tr/SIeRkg2QvR2Zcpu0SeEMow?ed=2560
+- client-fingerprint: chrome
+  name: "JP\u65E5\u672C(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  network: ws
+  port: 57554
+  server: 203.137.165.164
+  servername: kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev
+  skip-cert-verify: false
+  sni: kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 0985e268-5c1c-4141-9d96-139f8046c47c
+  ws-opts:
+    headers:
+      Host: kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev
+    path: /@Marisa_kristi
+- name: "JP\u65E5\u672C(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 35.78.243.103
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "JP\u65E5\u672C(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (4)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 212.192.221.107
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "KR\u97E9\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 141.164.56.22
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "KR\u97E9\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  network: ws
+  password: humanity
+  port: 8443
+  server: 141.164.34.161
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "KR\u97E9\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 54.116.249.102
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "KR\u97E9\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (4)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 103.218.173.218
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- alpn:
+  - h2
+  client-fingerprint: firefox
+  name: "NL\u8377\u5170(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: xhttp
+  port: 443
+  server: 2a14:3f87:f001:46::a
+  servername: dey.lnmarketplace.net
+  skip-cert-verify: false
+  sni: dey.lnmarketplace.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
+  xhttp-opts:
+    host: dey.lnmarketplace.net
+    mode: stream-one
+    path: /kavir
+- alpn:
+  - h2
+  client-fingerprint: chrome
+  name: "NL\u8377\u5170(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  network: xhttp
+  port: 443
+  server: dey.lnmarketplace.net
+  servername: dey.lnmarketplace.net
+  skip-cert-verify: false
+  sni: dey.lnmarketplace.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
+  xhttp-opts:
+    host: dey.lnmarketplace.net
+    mode: stream-one
+    path: /kavir
+- alpn:
+  - h2
+  client-fingerprint: firefox
+  name: "NL\u8377\u5170(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  network: xhttp
+  port: 443
+  server: dey.lnmarketplace.net
+  servername: dey.lnmarketplace.net
+  skip-cert-verify: false
+  sni: dey.lnmarketplace.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
+  xhttp-opts:
+    host: dey.lnmarketplace.net
+    mode: stream-one
+    path: /kavir
+- name: "NL\u8377\u5170(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (4)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 188.164.248.143
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "NL\u8377\u5170(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (5)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 130.12.46.156
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: firefox
+  name: "NL\u8377\u5170(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (6)"
+  port: 27591
+  reality-opts:
+    public-key: LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM
+    short-id: 6c5c7900406a1ae7
+  server: 79.182.39.37
+  servername: www.samsung.com
+  skip-cert-verify: false
+  sni: www.samsung.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
+- client-fingerprint: chrome
+  name: "PL\u6CE2\u5170(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  port: 27591
+  reality-opts:
+    public-key: LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM
+    short-id: 6c5c7900406a1ae7
+  server: 79.182.39.37
+  servername: www.samsung.com
+  skip-cert-verify: false
+  sni: www.samsung.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: "RU\u4FC4\u7F57\u65AF(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  port: 443
+  reality-opts:
+    public-key: l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg
+    short-id: 4a7b1c8d
+  server: tau1.freerunet.online
+  servername: tau1.freerunet.online
+  skip-cert-verify: false
+  sni: tau1.freerunet.online
+  tls: true
+  type: vless
+  udp: true
+  uuid: ca14493b-b984-4ffb-bc0e-9cb5da969e15
+- client-fingerprint: qq
+  flow: xtls-rprx-vision
+  name: "RU\u4FC4\u7F57\u65AF(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  port: 443
+  reality-opts:
+    public-key: l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg
+    short-id: 4a7b1c8d
+  server: tau1.freerunet.online
+  servername: tau1.freerunet.online
+  skip-cert-verify: false
+  sni: tau1.freerunet.online
+  tls: true
+  type: vless
+  udp: true
+  uuid: ca14493b-b984-4ffb-bc0e-9cb5da969e15
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: "RU\u4FC4\u7F57\u65AF(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  port: 443
+  reality-opts:
+    public-key: l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg
+    short-id: 4a7b1c8d
+  server: tau1.freerunet.online
+  servername: tau1.freerunet.online
+  skip-cert-verify: false
+  sni: tau1.freerunet.online
+  tls: true
+  type: vless
+  udp: true
+  uuid: ca14493b-b984-4ffb-bc0e-9cb5da969e15
+- client-fingerprint: safari
+  flow: xtls-rprx-vision
+  name: "RU\u4FC4\u7F57\u65AF(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (4)"
+  port: 443
+  reality-opts:
+    public-key: l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg
+    short-id: 4a7b1c8d
+  server: tau1.freerunet.online
+  servername: tau1.freerunet.online
+  skip-cert-verify: false
+  sni: tau1.freerunet.online
+  tls: true
+  type: vless
+  udp: true
+  uuid: ca14493b-b984-4ffb-bc0e-9cb5da969e15
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "RU\u4FC4\u7F57\u65AF(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (5)"
+  port: 443
+  reality-opts:
+    public-key: l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg
+    short-id: 4a7b1c8d
+  server: tau1.freerunet.online
+  servername: tau1.freerunet.online
+  skip-cert-verify: false
+  sni: tau1.freerunet.online
+  tls: true
+  type: vless
+  udp: true
+  uuid: ca14493b-b984-4ffb-bc0e-9cb5da969e15
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: "RU\u4FC4\u7F57\u65AF(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (6)"
+  port: 443
+  reality-opts:
+    public-key: l1mx_plNc2oiWxJCcZLh3SGfFU-5QxYpgQ__Ea59WEg
+    short-id: 4a7b1c8d
+  server: 178.236.245.59
+  servername: tau1.freerunet.online
+  skip-cert-verify: false
+  sni: tau1.freerunet.online
+  tls: true
+  type: vless
+  udp: true
+  uuid: ca14493b-b984-4ffb-bc0e-9cb5da969e15
+- name: "RU\u4FC4\u7F57\u65AF(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (7)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.19.64.105
+  servername: www.calmlunch.com
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.calmlunch.com
+    path: /assignment
+- name: "RU\u4FC4\u7F57\u65AF(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (8)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 217.26.26.14
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "RU\u4FC4\u7F57\u65AF(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (9)"
+  network: ws
+  password: humanity
+  port: 2053
+  server: 201.24.57.254
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "SG\u65B0\u52A0\u5761(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  password: e7TTceggMwUMg+aFN:F4
+  port: 443
+  server: 172.66.47.18
+  servername: APkD964o1oghlTghHt0L0Of.pAgeS.Dev
+  skip-cert-verify: false
+  sni: APkD964o1oghlTghHt0L0Of.pAgeS.Dev
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /tr/SIeRkg2QvR2Zcpu0SeEMow?ed=2560
+- name: "SG\u65B0\u52A0\u5761(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 128.199.128.117
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "SG\u65B0\u52A0\u5761(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 165.22.102.89
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "SG\u65B0\u52A0\u5761(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (4)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 168.144.41.69
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "SG\u65B0\u52A0\u5761(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (5)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 178.93.160.132
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "SG\u65B0\u52A0\u5761(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (6)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 157.245.159.88
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: "TW\u53F0\u6E7E(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  password: 0324fbc29561
+  port: 443
+  server: 684616s4.df6h451rh.xin
+  servername: px.ads.linkedin.com
+  skip-cert-verify: false
+  sni: px.ads.linkedin.com
+  tls: true
+  type: anytls
+  udp: true
+- name: "TW\u53F0\u6E7E(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  password: 0324fbc29561
+  port: 443
+  server: 684616s4.df6h451rh.xin
+  servername: px.ads.linkedin.com
+  skip-cert-verify: false
+  sni: px.ads.linkedin.com
+  tls: true
+  type: anytls
+  udp: true
+- client-fingerprint: chrome
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB)"
+  network: ws
+  port: 8443
+  server: 194.87.143.165
+  servername: wsru1.wba-pn.ru
+  skip-cert-verify: false
+  sni: wsru1.wba-pn.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: f9613819-d2fe-4b3a-a2e6-40c184c6854c
+  ws-opts:
+    path: /
+- cipher: aes-256-gcm
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (2)"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.63
+  skip-cert-verify: false
+  tls: false
+  type: ss
+  udp: true
+- alpn:
+  - h2
+  client-fingerprint: firefox
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (3)"
+  network: xhttp
+  port: 443
+  server: 2a14:3f87:f001:46::a
+  servername: dey.lnmarketplace.net
+  skip-cert-verify: false
+  sni: dey.lnmarketplace.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
+  xhttp-opts:
+    host: dey.lnmarketplace.net
+    mode: stream-one
+    path: /kavir
+- client-fingerprint: chrome
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (4)"
+  network: ws
+  port: 2087
+  server: 8.35.211.73
+  servername: d39333476.pages.dev
+  skip-cert-verify: false
+  sni: d39333476.pages.dev
+  tls: true
+  type: vless
+  udp: true
+  uuid: 9f534ac4-3c58-4a16-8b74-13dff09a0cf1
+  ws-opts:
+    headers:
+      Host: d39333476.pages.dev
+    path: /resource
+- cipher: aes-256-gcm
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (5)"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.36
+  skip-cert-verify: false
+  tls: false
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (6)"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.90
+  skip-cert-verify: false
+  tls: false
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (7)"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.54
+  skip-cert-verify: false
+  tls: false
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (8)"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.45
+  skip-cert-verify: false
+  tls: false
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (9)"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.99
+  skip-cert-verify: false
+  tls: false
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (10)"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.18
+  skip-cert-verify: false
+  tls: false
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (11)"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.72
+  skip-cert-verify: false
+  tls: false
+  type: ss
+  udp: true
+- alpn:
+  - h2
+  client-fingerprint: chrome
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (12)"
+  network: xhttp
+  port: 443
+  server: 2a14:3f87:f001:46::a
+  servername: dey.lnmarketplace.net
+  skip-cert-verify: false
+  sni: dey.lnmarketplace.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
+  xhttp-opts:
+    host: dey.lnmarketplace.net
+    mode: stream-one
+    path: /kavir
+- alpn:
+  - h2
+  client-fingerprint: firefox
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (13)"
+  network: xhttp
+  port: 443
+  server: 2a14:3f87:f001:46::a
+  servername: dey.lnmarketplace.net
+  skip-cert-verify: false
+  sni: dey.lnmarketplace.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
+  xhttp-opts:
+    host: dey.lnmarketplace.net
+    mode: stream-one
+    path: /kavir
+- alpn:
+  - h2
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (14)"
+  network: xhttp
+  port: 443
+  server: dey.lnmarketplace.net
+  servername: dey.lnmarketplace.net
+  skip-cert-verify: false
+  sni: dey.lnmarketplace.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
+  xhttp-opts:
+    host: dey.lnmarketplace.net
+    mode: stream-one
+    path: /kavir
+- alpn:
+  - h2
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (15)"
+  network: xhttp
+  port: 443
+  server: dey.lnmarketplace.net
+  servername: dey.lnmarketplace.net
+  skip-cert-verify: false
+  sni: dey.lnmarketplace.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
+  xhttp-opts:
+    host: dey.lnmarketplace.net
+    mode: stream-one
+    path: /kavir
+- alpn:
+  - h2
+  client-fingerprint: firefox
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (16)"
+  network: xhttp
+  port: 443
+  server: dey.lnmarketplace.net
+  servername: dey.lnmarketplace.net
+  skip-cert-verify: false
+  sni: dey.lnmarketplace.net
+  tls: true
+  type: vless
+  udp: true
+  uuid: 3536e1fa-0850-44d1-b123-925ce12476cf
+  xhttp-opts:
+    host: dey.lnmarketplace.net
+    mode: stream-one
+    path: /kavir
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (17)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.17.238
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (18)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.19.46.152
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (19)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.67.203.46
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (20)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.66.0.172
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (21)"
+  port: 443
+  reality-opts:
+    public-key: QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk
+    short-id: 51079f144d661484
+  server: 13.143.180.104
+  servername: s12.bsh-net.ru
+  skip-cert-verify: false
+  sni: s12.bsh-net.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: a0fa7e19-70ec-41e0-b0cc-bcc984d4201a
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (22)"
+  port: 443
+  reality-opts:
+    public-key: QvT-t_h_AF2EAT4Ggh_a6pcCK3StY8G9WCXn6-dJbxk
+    short-id: 51079f144d661484
+  server: s12.bsh-net.ru
+  servername: s12.bsh-net.ru
+  skip-cert-verify: false
+  sni: s12.bsh-net.ru
+  tls: true
+  type: vless
+  udp: true
+  uuid: a0fa7e19-70ec-41e0-b0cc-bcc984d4201a
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (23)"
+  port: 19825
+  reality-opts:
+    public-key: GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI
+    short-id: 6ba85179e30d4fc2
+  server: sg2-8sb.6121999.dpdns.org
+  servername: sg2-8sb.6121999.dpdns.org
+  skip-cert-verify: false
+  sni: sg2-8sb.6121999.dpdns.org
+  tls: true
+  type: vless
+  udp: true
+  uuid: 2d1ad594-80a4-4bfb-87a6-038e39701f51
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (24)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.67.203.46
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.cordweave.com
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (25)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.72.213
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (26)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.16.65.1
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (27)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.64.150.181
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (28)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.64.229.7
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (29)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.191.193
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (30)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.19.212.207
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (31)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.46.127
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (32)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.167.134
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (33)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.19.48.73
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (34)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.16.144.215
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (35)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.19.34.37
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (36)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.162.3
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (37)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 162.159.58.65
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (38)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.38.127
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (39)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.159.71
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (40)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.64.154.144
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (41)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.223.253
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (42)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.16.251.219
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (43)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.64.52.127
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (44)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 198.41.216.1
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (45)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.116.75
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (46)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.255.167
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (47)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 162.159.150.241
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (48)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 38.207.177.204
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (49)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 179.255.127.200
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (50)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 179.255.136.189
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (51)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 179.255.127.82
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (52)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 179.255.127.45
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (53)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 193.134.209.165
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (54)"
+  network: ws
+  password: humanity
+  port: 8443
+  server: 179.255.157.247
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (55)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 31.76.0.15
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (56)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 162.159.128.253
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (57)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.66.0.118
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (58)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 162.159.149.157
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (59)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 68.64.180.218
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (60)"
+  network: ws
+  password: humanity
+  port: 8443
+  server: 199.119.137.32
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (61)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 78.40.209.33
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: chrome
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (62)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 165.215.250.14
+  servername: www.calmlunch.com
+  skip-cert-verify: false
+  sni: www.calmlunch.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: chrome
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (63)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.17.238
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: chrome
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (64)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.19.46.152
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: chrome
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (65)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.72.213
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: chrome
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (66)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 194.55.164.118
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: firefox
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (67)"
+  port: 443
+  reality-opts:
+    public-key: MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA
+    short-id: 50ad5564
+  server: 186.246.9.29
+  servername: wordpress.com
+  skip-cert-verify: false
+  sni: wordpress.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: b2847c3b-5278-4b06-9c66-bc919d2dfec7
+- client-fingerprint: chrome
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (68)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.66.0.172
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- client-fingerprint: firefox
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (69)"
+  network: xhttp
+  port: 443
+  server: 84.32.184.218
+  servername: 7d1a74fd.ferrin.uk
+  skip-cert-verify: false
+  sni: 7d1a74fd.ferrin.uk
+  tls: true
+  type: vless
+  udp: true
+  uuid: 7d1a74fd-8a38-4a29-863f-5da53a9e557e
+  xhttp-opts:
+    mode: auto
+    path: /es
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (70)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.42.190
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (71)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.221.194
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (72)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.145.145
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (73)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.49.122
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (74)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.117.104
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (75)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.67.74.177
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (76)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.26.3.162
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (77)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.67.67.89
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (78)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.25.60.205
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (79)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.67.94.180
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (80)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.67.89.103
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- alpn:
+  - http/1.1
+  name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (81)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 172.67.203.46
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: www.cordweave.com
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (82)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.148.111
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (83)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.135.68
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (84)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.19.154.200
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (85)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.28.254
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (86)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.19.43.102
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (87)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.110.1
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (88)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.24.144.224
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (89)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.19.0.1
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (90)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.16.244.188
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (91)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.61.37
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (92)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.145.43
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (93)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.18.0.1
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (94)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.28.10
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (95)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.19.53.114
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (96)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 162.159.45.1
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (97)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.16.245.194
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (98)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.119.105
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (99)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.17.155.44
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (100)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.19.56.198
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
+- name: "US\u7F8E\u56FD(mibei77.com \u7C73\u8D1D\u8282\u70B9\u5206\u4EAB) (101)"
+  network: ws
+  password: humanity
+  port: 443
+  server: 104.16.240.177
+  servername: www.cordweave.com
+  skip-cert-verify: false
+  sni: www.cordweave.com
+  tls: true
+  type: trojan
+  udp: true
+  ws-opts:
+    path: /assignment
