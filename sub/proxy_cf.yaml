@@ -299,57 +299,47 @@ proxies:
   type: trojan
   ws-opts:
     path: /assignment
-- alterId: 0
-  cipher: auto
-  name: "8\u5143\u8001\u724C\u4E13\u7EBF\u673A\u573A\uFF1Acczzuu.top"
-  network: ws
-  port: 23026
-  server: 47.244.120.197
-  type: vmess
-  udp: true
-  uuid: b9de1bc9-baa7-41ac-86f7-ccd59695cb21
-  ws-opts:
-    headers:
-      Host: 47.244.120.197
-    path: /arki
-- name: "\u7F8E\u56FD_AF21C9"
-  port: 52683
-  server: jp.sofast.live
-  type: vless
-  udp: true
-  uuid: 399b6b23-cc40-4831-a494-61948e2df133
-- name: "\u7F8E\u56FD_6F3EA3"
+- name: "8\u5143\u8001\u724C\u4E13\u7EBF\u673A\u573A\uFF1Acczzuu.top"
   port: 58011
   server: us22.sofast.live
   type: vless
   udp: true
   uuid: 0afc6426-606c-48e7-bd70-3c424a416842
-- client-fingerprint: firefox
-  name: "\u9999\u6E2F_24735C"
+- name: "\u7F8E\u56FD_DDAF78"
+  port: 52683
+  server: jp.sofast.live
+  type: vless
+  udp: true
+  uuid: 399b6b23-cc40-4831-a494-61948e2df133
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "\u8377\u5170_EF7220"
   port: 443
   reality-opts:
-    public-key: c9DdggKaJGSH7FN3JgGbi9ZvsUqOGGpIr7BhzTWeTCo
-    short-id: ''
-  server: a736eb68-tmb1c0-tpkh0c-1r7od.hk2.hyhuawei.com
-  servername: download.windowsupdate.com
+    public-key: BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE
+    short-id: 051f20c2344a2dfd
+  server: c20s5.portablesubmarines.com
+  servername: portal.citygrainla.com
   tls: true
   type: vless
   udp: true
-  uuid: 6d56436c-150d-11f0-b0c8-f23c913c8d2b
-- name: "\u52A0\u62FF\u5927_9A8567"
-  network: ws
-  port: 2082
-  server: 104.17.162.11
+  uuid: 85fe968d-fbb5-40dc-8422-30635eccb149
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: "\u8377\u5170_D0DC3C"
+  port: 443
+  reality-opts:
+    public-key: mpo4BIcoWiMXAQGt5a8IJ4MFkPJQyLC50dO_bXzC7z0
+    short-id: ''
+  server: 104.171.135.229
+  servername: absolute-disaster.org
+  tls: true
   type: vless
   udp: true
-  uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b
-  ws-opts:
-    headers:
-      Host: hhlfy.twiladaphne.ndjp.net
-    path: /
+  uuid: Fluffy_VPN-Oth8rOq3
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: "\u8377\u5170_AB1C15"
+  name: "\u8377\u5170_CD4787"
   port: 443
   reality-opts:
     public-key: cYtAkO6yUCuRTxHvF8EH76bybk1yfS005KLls-at2yc
@@ -360,105 +350,133 @@ proxies:
   type: vless
   udp: true
   uuid: 07680ffb-0666-4836-b6ad-ec0de62bc38f
-- client-fingerprint: qq
-  grpc-opts:
-    grpc-service-name: rex-eb0bf76b710ce763
-  name: "\u5370\u5EA6_873679"
-  network: grpc
-  port: 2443
-  reality-opts:
-    public-key: h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg
-    short-id: 92c32de179e5d908
-  server: hydra.yokkastars.com
-  servername: deepl.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 5e679ccd-1586-4d5f-b87b-48251046cad8
 - client-fingerprint: firefox
-  name: "\u4FC4\u7F57\u65AF_DB12D1"
+  flow: xtls-rprx-vision
+  name: "\u8377\u5170_413984"
   port: 443
   reality-opts:
-    public-key: iT-HgkPRUHl7Tm-LUWAGD-zoNoZSkVc-M9sscIIomHY
-    short-id: a62228a1c8b3378f
-  server: 5.129.249.65
-  servername: rue.tems.bet
+    public-key: isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA
+    short-id: e6d589857d1cec5e
+  server: fr.golangwikito.cfd
+  servername: fr.golangwikito.cfd
   tls: true
   type: vless
   udp: true
-  uuid: a5212bcb-ab85-459a-bec6-9f259eeeebfa
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_70D310"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.72
-  type: ss
+  uuid: f8d52ece-fad4-478d-875d-df6eed3befa7
+- client-fingerprint: chrome
+  name: "\u6CE2\u5170_E247CA"
+  port: 27591
+  reality-opts:
+    public-key: LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM
+    short-id: 6c5c7900406a1ae7
+  server: 79.182.39.37
+  servername: www.samsung.com
+  tls: true
+  type: vless
   udp: true
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_97A06A"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.99
-  type: ss
+  uuid: 056405e8-de9f-4d0d-8145-956f13cc34da
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "\u745E\u5178_35B015"
+  port: 443
+  reality-opts:
+    public-key: TyuIIquHoesD9YwMQJHda0YZ3Hy9Dh123dQ00iGK0QY
+    short-id: ''
+  server: swedenafteraventura.space
+  servername: swedenafteraventura.space
+  tls: true
+  type: vless
   udp: true
+  uuid: 50a87e21-f0e2-4b53-a787-91adfe748f63
 - cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_D9312F"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.36
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_DB7508"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.81
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_91CCC9"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.63
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_9E33B2"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.45
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_BBA458"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.90
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_B851BE"
+  name: "\u610F\u5927\u5229_268AC5"
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.27
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_262730"
+  name: "\u610F\u5927\u5229_AF6F6B"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.36
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_467EC7"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.72
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_D3C121"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.63
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_44A9A4"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.45
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_983317"
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.54
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_F68B58"
+  name: "\u610F\u5927\u5229_F3615E"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.81
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_D5CCB1"
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.18
   type: ss
   udp: true
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_A7D416"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.90
+  type: ss
+  udp: true
+- name: "\u52A0\u62FF\u5927_64083C"
+  network: ws
+  port: 8080
+  server: 172.67.75.172
+  type: vless
+  udp: true
+  uuid: e5cc16a6-ea42-46b2-82ae-ad2157e1641b
+  ws-opts:
+    headers:
+      Host: hhlfy.twiladaphne.ndjp.net
+    path: /sg-melbi
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "\u8377\u5170_6455CB"
+  port: 8443
+  reality-opts:
+    public-key: Q0dPyF2hFWgxL7hxntJWJammcb6zcRCyA-NOiOFrsAo
+    short-id: 1433a38abea1191c
+  server: 185.14.30.98
+  servername: twitch.tv
+  tls: true
+  type: vless
+  udp: true
+  uuid: f5e70ce3-cfb4-4df1-b25c-d19bfae627c0
 - client-fingerprint: firefox
-  name: "\u8377\u5170_F7C249"
+  name: "\u8377\u5170_3652D2"
   port: 443
   reality-opts:
     public-key: MPNMomAMn_lu9YMYjD2jAQWrI-rTM4hj9Jgg9d6qzTA
