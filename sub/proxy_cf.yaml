@@ -590,18 +590,31 @@ proxies:
   cipher: auto
   name: "8\u5143\u8001\u724C\u4E13\u7EBF\u673A\u573A\uFF1Acczzuu.top"
   network: ws
-  port: 44867
+  port: 23026
   server: 47.244.120.197
   type: vmess
   udp: true
-  uuid: 845e6b08-2919-4290-ade0-5dc7dcea59ca
+  uuid: b9de1bc9-baa7-41ac-86f7-ccd59695cb21
   ws-opts:
     headers:
       Host: 47.244.120.197
     path: /arki
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: "\u9999\u6E2F_75DD44"
+  name: "\u9999\u6E2F_511FA8"
+  port: 443
+  reality-opts:
+    public-key: vhu6gifBQ8-hRzW1gqKFkEXDlQbf6Ex8kKj1FcxhmzA
+    short-id: d78318845237d9a9
+  server: 8.210.92.38
+  servername: www.ebay.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4fc9dc3d-0d57-49e7-9bc0-e323165241bf
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "\u9999\u6E2F_9E7205"
   port: 8443
   reality-opts:
     public-key: 74P0QFvaK6B13rHsxR_t0lqRlg4YLuORD4VaHr5Jd38
@@ -612,36 +625,55 @@ proxies:
   type: vless
   udp: true
   uuid: 8b17beac-b143-447d-aa68-14cbb121a602
+- cipher: chacha20-ietf-poly1305
+  name: "\u9999\u6E2F_3D5771"
+  password: abc62f00-95a8-4c2e-a85d-36a2cdc977da
+  port: 28014
+  server: waic.pro.main.sys-metric-report.com
+  type: ss
+  udp: true
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: "\u65B0\u52A0\u5761_18A727"
-  port: 51283
-  reality-opts:
-    public-key: IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ
-    short-id: fa514b83
-  server: free.fugui.lol
-  servername: swdist.apple.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: ead3595f-4020-4e76-a3ec-c248e1a2f2f7
-- client-fingerprint: edge
-  grpc-opts:
-    grpc-service-name: 99f2107b03f8
-  name: "\u7F8E\u56FD_29690C"
-  network: grpc
+  name: "\u65E5\u672C_FFC236"
   port: 443
   reality-opts:
-    public-key: cO3wYHISTeorXcM8ffaDCDdqZ-olBQL-GyZqb-W7rTk
-    short-id: bd8f712209a9c283
-  server: 162.35.101.177
-  servername: 0592efg.us8.h1clayd.click
+    public-key: GeKuYNeAqQQkTN9OMJxXA9I-rXs7IiGh4Sl82crCITc
+    short-id: 253e450553a2
+  server: jp2music.xyy123.win
+  servername: us.amazon.com
   tls: true
   type: vless
   udp: true
-  uuid: cda0862a-0f87-4be9-8ed8-1d0c9e382839
-- flow: xtls-rprx-vision
-  name: "\u5FB7\u56FD_6980B3"
+  uuid: 8816de02-ceeb-4155-a539-074e8de44ee6
+- alterId: 0
+  cipher: auto
+  name: "\u65B0\u52A0\u5761_EE4875"
+  network: ws
+  port: 16618
+  server: fctwi.xiaoyan.io
+  type: vmess
+  udp: true
+  uuid: 967fbc94-fccd-46c2-9241-be92d4906186
+  ws-opts:
+    headers:
+      Host: 86714acc4cc5924e812db1c117db832f.mobgslb.tbcache.com
+    path: /
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "\u65B0\u52A0\u5761_977209"
+  port: 443
+  reality-opts:
+    public-key: I4sC7wO_OjKQcby3249aC1qGAmoMgHEFtRUvoLUy2yc
+    short-id: c92cbef726ee8169
+  server: jp2chat.xyy123.win
+  servername: blog.api.www.cloudflare.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 218345b7-3589-4c5e-9c6c-15a6c2de6895
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "\u5FB7\u56FD_A72E00"
   port: 443
   reality-opts:
     public-key: 1iVMMhJZgXHRY7tRlR-1kypF0YeaBcB7EjcfHRsYZX4
@@ -654,7 +686,7 @@ proxies:
   uuid: c16e8cdb-65dd-4049-bc65-14c051b8a6c6
 - client-fingerprint: firefox
   flow: xtls-rprx-vision
-  name: "\u5FB7\u56FD_AFC1BF"
+  name: "\u5FB7\u56FD_FC2E26"
   port: 443
   reality-opts:
     public-key: _3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0
@@ -665,24 +697,47 @@ proxies:
   type: vless
   udp: true
   uuid: a71d6c6d-c95e-4ec1-a892-22e21733bf09
-- client-fingerprint: firefox
+- client-fingerprint: chrome
   grpc-opts:
-    grpc-service-name: 204adda7e3da
-  name: "\u8377\u5170_2FF0C5"
+    grpc-service-name: 99f2107b03f8
+  name: "\u7F8E\u56FD_948304"
   network: grpc
   port: 443
   reality-opts:
-    public-key: PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU
-    short-id: d3bd772514c87d28
-  server: 153.56.231.73
-  servername: 717252g.nl8.h1clayd.click
+    public-key: cO3wYHISTeorXcM8ffaDCDdqZ-olBQL-GyZqb-W7rTk
+    short-id: bd8f712209a9c283
+  server: 162.35.101.177
+  servername: 0592efg.us8.h1clayd.click
   tls: true
   type: vless
   udp: true
   uuid: cda0862a-0f87-4be9-8ed8-1d0c9e382839
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: "\u6CD5\u56FD_AD6B04"
+  name: "\u7F8E\u56FD_DD3DA4"
+  port: 443
+  reality-opts:
+    public-key: SkR5Vn9gdkPsr7MInaC9rkAaJz57VeGN4U2AgXaol0s
+    short-id: 296654cee8d6832e
+  server: 204.138.145.163
+  servername: www.microsoft.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 9e92bb57-2332-4c30-bb97-f269a94e53a3
+- name: "\u8377\u5170_C7D8C6"
+  network: ws
+  port: 2052
+  server: 185.16.110.62
+  type: vless
+  udp: true
+  uuid: 85432578-96fd-4613-a255-e235a81cc94b
+  ws-opts:
+    headers: {}
+    path: /
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "\u6CD5\u56FD_6DB3C4"
   port: 443
   reality-opts:
     public-key: p35RUaaaItuoyNiCrLpGeStBUpEJMSiZ2AajdfhhmiM
@@ -693,70 +748,169 @@ proxies:
   type: vless
   udp: true
   uuid: e894c08a-fecc-46f5-bf03-c95d0274c79d
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: "\u897F\u73ED\u7259_310630"
-  port: 443
-  reality-opts:
-    public-key: ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE
-    short-id: 42426c882c5fcd41
-  server: 196.196.149.81
-  servername: 7aa271t.es1.h1clayd.click
-  tls: true
-  type: vless
-  udp: true
-  uuid: 4201786b-d99b-4147-a5f0-20d47acddb81
 - cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_47F6B2"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.27
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_58D3E7"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.99
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_5E56CD"
+  name: "\u610F\u5927\u5229_0247BC"
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.81
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_915FA9"
+  name: "\u610F\u5927\u5229_5EFB03"
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
-  server: 202.50.253.72
+  server: 202.50.253.99
   type: ss
   udp: true
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_5AC940"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.90
-  type: ss
+- client-fingerprint: firefox
+  flow: xtls-rprx-vision
+  name: "\u82AC\u5170_322692"
+  port: 443
+  reality-opts:
+    public-key: 4hAezOnHPiz2LUH0NBpS7KmGVd7-AyOODfHWwyQ50kM
+    short-id: fdea6c48da968d75
+  server: 2.29.62.181
+  servername: api.steampowered.com
+  tls: true
+  type: vless
   udp: true
+  uuid: b63bc3fe-8852-4ead-8d25-8d8d5bae79ae
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "\u6CD5\u56FD_AC8A95"
+  port: 8443
+  reality-opts:
+    public-key: fSVfR9NB-6J6smrZlavi0GWd8JfDh0aXuEkKbtuFzUI
+    short-id: 3cbc3d737fb9c4af
+  server: 92.118.206.218
+  servername: dur.sky-vault.top
+  tls: true
+  type: vless
+  udp: true
+  uuid: c53ea5e9-ed8b-4990-805d-7f1d6451426c
 - cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_C5B909"
+  name: "\u610F\u5927\u5229_7215B0"
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.45
   type: ss
   udp: true
 - cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_3F7346"
+  name: "\u610F\u5927\u5229_D3DA27"
   password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
   port: 19999
   server: 202.50.253.36
   type: ss
   udp: true
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_2B19C6"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.63
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_007CEB"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.72
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_5F67C2"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.90
+  type: ss
+  udp: true
+- client-fingerprint: random
+  flow: xtls-rprx-vision
+  name: "\u8377\u5170_113319"
+  port: 443
+  reality-opts:
+    public-key: VZS639V1i-35g7VXb9EoTYL-Srm7858sxcvFAunncmA
+    short-id: 8d0d0679f42ffd98
+  server: 8a2e72t.nl20.h1clayd.shop
+  servername: 8a2e72t.nl20.h1clayd.shop
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4201786b-d99b-4147-a5f0-20d47acddb81
 - client-fingerprint: firefox
-  name: "\u8377\u5170_B5F210"
+  flow: xtls-rprx-vision
+  name: "\u897F\u73ED\u7259_A5824C"
+  port: 443
+  reality-opts:
+    public-key: ZSmetD4e9QG5CiXhniHg5HJB68L4kwbgAkJmMHtVwEE
+    short-id: 42426c882c5fcd41
+  server: 196.196.148.90
+  servername: 7aa271t.es9.h1clayd.click
+  tls: true
+  type: vless
+  udp: true
+  uuid: 4201786b-d99b-4147-a5f0-20d47acddb81
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: "\u5FB7\u56FD_B6F636"
+  port: 19482
+  reality-opts:
+    public-key: IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ
+    short-id: fa514b83
+  server: free.fugui.lol
+  servername: swdist.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: a76b07ff-6fde-48d3-9c00-17a17ec3850d
+- client-fingerprint: ios
+  flow: xtls-rprx-vision
+  name: "\u7F8E\u56FD_2D1076"
+  port: 62015
+  reality-opts:
+    public-key: IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ
+    short-id: fa514b83
+  server: free.fugui.lol
+  servername: swdist.apple.com
+  tls: true
+  type: vless
+  udp: true
+  uuid: 36edddde-95f7-4f30-966e-6c19c737ef55
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: "\u8377\u5170_591DA3"
+  port: 443
+  reality-opts:
+    public-key: k_DjUz2cP6QGuDVwyvTrk3QTuJVntXCPjxJmO-UZchI
+    short-id: 9f07e56cfce2b9a3
+  server: 185.141.34.93
+  servername: static.lormit.digital
+  tls: true
+  type: vless
+  udp: true
+  uuid: 9c69546a-e435-4037-bc63-f9e5829a8be3
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_80E907"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.27
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_9343A2"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.54
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: "\u610F\u5927\u5229_2D79E9"
+  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
+  port: 19999
+  server: 202.50.253.18
+  type: ss
+  udp: true
+- client-fingerprint: firefox
+  name: "\u8377\u5170_0DD663"
   port: 443
   reality-opts:
     public-key: l-GzBDuNuhnjxoRlZqKvT7jAt_sbVAxhGFsAttO5kXs
@@ -767,52 +921,3 @@ proxies:
   type: vless
   udp: true
   uuid: cda0862a-0f87-4be9-8ed8-1d0c9e382839
-- client-fingerprint: edge
-  grpc-opts:
-    grpc-service-name: livestreamcontent
-  name: "\u897F\u73ED\u7259_920604"
-  network: grpc
-  port: 443
-  reality-opts:
-    public-key: PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA
-    short-id: c5548af15927b698
-  server: 194.58.60.228
-  servername: node43.lmdscdn.ru
-  tls: true
-  type: vless
-  udp: true
-  uuid: bbbee51e-021e-4e65-ba03-bf7de175116f
-- client-fingerprint: firefox
-  flow: xtls-rprx-vision
-  name: "\u7F8E\u56FD_64EF90"
-  port: 443
-  reality-opts:
-    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-    short-id: ''
-  server: us-tube-01.funky-monkey.app
-  servername: steam-videos.cc
-  tls: true
-  type: vless
-  udp: true
-  uuid: ea759639-a58c-4c46-8e0b-4cc834bf6658
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_7F76DA"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.18
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_A2E6DF"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.63
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: "\u610F\u5927\u5229_EF7116"
-  password: ZRpgaBeGxtENIXgvhpkZBKz9GnWRS2dYcx9O+a2iwN4=
-  port: 19999
-  server: 202.50.253.54
-  type: ss
-  udp: true
